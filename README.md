@@ -2,10 +2,9 @@
 
 I'm [Adam](https://moonpixels.co.uk), a full stack web application developer from the UK.
 
-I work as the Senior Software Engineer at [Veezu](https://veezu.co.uk), building and maintaining the software that
+Currently serving as Senior Software Engineer at [Veezu](https://veezu.co.uk), building and maintaining the software that
 powers the UK's fastest growing multi-region private hire company.
 
-During my spare time I like to build smaller web applications through my freelance
-company [Moon Pixels](https://moonpixels.co.uk).
+I'm also available as an independent contractor through my company [Moon Pixels](https://moonpixels.co.uk).
 
-My development stack of choice is Laravel, Vue.js and Tailwind CSS.
+My development stack of choice is Laravel on the backend, with the frontend powered by React or Vue and styled using Tailwind CSS.
