@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I’m [Adam](https://moonpixels.co.uk), a UK-based freelance web developer specialising in Laravel and modern PHP, available for contract work through my company [Moon Pixels](https://moonpixels.co.uk).
+I’m [Adam](https://moonpixels.co.uk), a UK-based freelance web developer specialising in Laravel and modern PHP, available for contract work through my personal service company, [Moon Pixels](https://moonpixels.co.uk).
 
 I help businesses replace manual processes with well-designed web applications and internal tools. Most of my day-to-day work is Laravel and PHP, and I enjoy working with React, React Native, and Vue on the frontend.
 
